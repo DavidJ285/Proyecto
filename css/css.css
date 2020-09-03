@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.cajaPrincipal{
+  width: 60%;
+  height:750px;
+  border: 2px black solid;
+  margin-top: 3%;
+  margin-left: 18%;
+}
+.cajaBotones{
+  width: 99.7%;
+  height: 130px;
+  border: 2px black solid;
+  display: flex;
+  flex-direction: row;
+}
+.boton1{
+  width: 10%;
+  margin-left: 10px;
+  height: 110px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.boton1 img{
+  width: 100%;
+  height: 100px;
+}
+.boton2{
+  width: 10%;
+  margin-left: 10px;
+  height: 110px;
+  margin-left: 77%;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.boton2 img{
+  width: 100%;
+  height: 100px;
+}
+.cajaImagen{
+  width: 90%;
+  height: 400px;
+  margin: 55px;
+  background-color: blue;
+}
+.cajaImagen img{
+  width: 100%;
+  height: 400px;
+}
+
+.cajaTexto{
+  width: 99.7%;
+  height: 105px;
+  border: 2px black solid;
+}
